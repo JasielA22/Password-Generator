@@ -10,4 +10,20 @@ As an employee or regular person with a lot of sensitive data, it is crucial to 
 
  ## What to expect
 
- ![Here is a ScreenShot of the application](enter here)
+ ![Here is a ScreenShot of the application](./Images/Password%20Generator.png)
+
+## After
+
+ ![Here is a ScreenShot of the application](./Images/Password%20Generator%20(1).png)
+
+ This image shows that the password is writen in the box after all the prompts have been answered correctly
+
+ ## Credits
+
+ Thank you to James Kelly for helping me understand the process
+
+##
+
+ A couple of youtube videos that helped  
+ [Homework Startup Guide - Javascript Password Generator](https://www.youtube.com/watch?v=x4HUaiazDes)  
+ [Random Password Generator in JavaScript](https://www.youtube.com/watch?v=v2jfGo7ztm8)
