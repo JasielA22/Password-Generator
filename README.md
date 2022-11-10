@@ -6,3 +6,8 @@ As an employee or regular person with a lot of sensitive data, it is crucial to 
 
 ## Deployed Link
 
+ [Click here!](https://jasiela22.github.io/Password-Generator/)
+
+ ## What to expect
+
+ ![Here is a ScreenShot of the application](enter here)
